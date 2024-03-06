@@ -13,6 +13,7 @@
 * **Shell Path Management:** Manages a shell path variable to search for executable files in specified directories.
 
 # Installation
+Clone this repository and compile rush.c using GCC or any compatible C compiler:
 
 $ git clone https://github.com/yourusername/rush-shell.git
 
