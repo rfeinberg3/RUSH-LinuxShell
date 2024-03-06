@@ -15,7 +15,7 @@
 # Installation
 Clone this repository and compile rush.c using GCC or any compatible C compiler:
 
-$ git clone https: https://github.com/rfeinberg3/RUSH-LinuxShell.git
+$ git clone https://github.com/rfeinberg3/RUSH-LinuxShell.git
 
 $ cd rush-shell
 
