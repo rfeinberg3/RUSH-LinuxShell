@@ -1,0 +1,5 @@
+path /bin /autograder/source/bin
+p2.sh > /tmp/output22 & p1.sh > /tmp/output22
+cat /tmp/output22
+rm -f /tmp/output22
+exit

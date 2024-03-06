@@ -1,0 +1,4 @@
+ls files > /tmp/output11
+cat /tmp/output11
+rm -f /tmp/output11
+exit

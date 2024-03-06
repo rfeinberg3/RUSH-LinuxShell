@@ -1,0 +1,3 @@
+path /autograder/source/bin
+p5.sh & p4.sh & p1.sh
+exit
