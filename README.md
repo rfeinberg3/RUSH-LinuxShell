@@ -15,5 +15,7 @@
 # Installation
 
 $ git clone https://github.com/yourusername/rush-shell.git
+
 $ cd rush-shell
+
 $ gcc rush.c -o rush
