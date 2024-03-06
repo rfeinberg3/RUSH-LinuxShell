@@ -20,3 +20,8 @@ $ git clone https://github.com/rfeinberg3/RUSH-LinuxShell.git
 $ cd rush-shell
 
 $ gcc rush.c -o rush
+
+# Usage
+Run the shell:
+
+$ ./rush
