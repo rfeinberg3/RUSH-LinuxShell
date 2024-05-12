@@ -17,14 +17,11 @@ Clone this repository and compile rush.c using GCC or any compatible C compiler:
 
 $ git clone https://github.com/rfeinberg3/RUSH-LinuxShell.git
 
+# Usage
+
 $ cd RUSH-LinuxShell/src
 
 $ make
-
-$ /rush
-
-# Usage
-Run the shell:
 
 $ ./rush
 
